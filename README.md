@@ -37,6 +37,3 @@ graph TD;
     
 
 ```
- E -->|5. Train Model on Training Data| F
-    F -->|6. Evaluate Model Performance on Testing Data| G
-    G -->|7. Deploy Model for Plant Species Classification|
